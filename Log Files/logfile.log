@@ -1,0 +1,400 @@
+2022-03-12 15:03:35,870 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-12 15:09:07,437 :INFO : test_login_page :Login Page Start
+2022-03-12 15:09:25,106 :INFO : test_login_page :Login Page Start
+2022-03-12 15:09:25,106 :INFO : test_login_page :Login Page Start
+2022-03-12 15:09:47,259 :INFO : test_login_page :Login Page Start
+2022-03-12 15:09:47,259 :INFO : test_login_page :Login Page Start
+2022-03-12 15:09:47,259 :INFO : test_login_page :Login Page Start
+2022-03-12 15:10:19,318 :INFO : test_login_page :Login Page Start
+2022-03-12 15:10:19,318 :INFO : test_login_page :Login Page Start
+2022-03-12 15:10:19,318 :INFO : test_login_page :Login Page Start
+2022-03-12 15:10:19,318 :INFO : test_login_page :Login Page Start
+2022-03-12 15:10:31,680 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-12 15:10:41,372 :INFO : test_Cart_list :Test Cart List is Started
+2022-03-12 15:11:19,616 :INFO : test_total_no_items :Test Total Number of Items is Started
+2022-03-12 15:20:34,350 :INFO : test_login_page :Login Page Start
+2022-03-12 15:20:53,121 :INFO : test_login_page :Login Page Start
+2022-03-12 15:20:53,121 :INFO : test_login_page :Login Page Start
+2022-03-12 15:21:13,933 :INFO : test_login_page :Login Page Start
+2022-03-12 15:21:13,933 :INFO : test_login_page :Login Page Start
+2022-03-12 15:21:13,933 :INFO : test_login_page :Login Page Start
+2022-03-12 15:22:55,094 :INFO : test_Cart_list :Test Cart List is Started
+2022-03-12 15:23:39,311 :INFO : test_total_no_items :Test Total Number of Items is Started
+2022-03-12 15:24:45,982 :INFO : test_login_page :Login Page Start
+2022-03-12 15:25:08,158 :INFO : test_login_page :Login Page Start
+2022-03-12 15:25:08,158 :INFO : test_login_page :Login Page Start
+2022-03-12 15:25:27,175 :INFO : test_login_page :Login Page Start
+2022-03-12 15:25:27,175 :INFO : test_login_page :Login Page Start
+2022-03-12 15:25:27,175 :INFO : test_login_page :Login Page Start
+2022-03-12 15:25:53,095 :INFO : test_login_page :Login Page Start
+2022-03-12 15:25:53,095 :INFO : test_login_page :Login Page Start
+2022-03-12 15:25:53,095 :INFO : test_login_page :Login Page Start
+2022-03-12 15:25:53,095 :INFO : test_login_page :Login Page Start
+2022-03-12 15:26:12,471 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-12 15:26:29,006 :INFO : test_Cart_list :Test Cart List is Started
+2022-03-12 15:27:22,077 :INFO : test_total_no_items :Test Total Number of Items is Started
+2022-03-12 15:30:55,050 :INFO : test_login_page :Login Page Start
+2022-03-12 15:30:55,255 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 15:30:55,255 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 15:31:17,929 :INFO : test_login_page :Login Page Start
+2022-03-12 15:31:17,929 :INFO : test_login_page :Login Page Start
+2022-03-12 15:31:18,136 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 15:31:18,136 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 15:31:18,136 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 15:31:18,136 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 15:31:38,537 :INFO : test_login_page :Login Page Start
+2022-03-12 15:31:38,537 :INFO : test_login_page :Login Page Start
+2022-03-12 15:31:38,537 :INFO : test_login_page :Login Page Start
+2022-03-12 15:31:38,769 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 15:31:38,769 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 15:31:38,769 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 15:31:38,769 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 15:31:38,769 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 15:31:38,769 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 15:31:55,951 :INFO : test_login_page :Login Page Start
+2022-03-12 15:31:55,951 :INFO : test_login_page :Login Page Start
+2022-03-12 15:31:55,951 :INFO : test_login_page :Login Page Start
+2022-03-12 15:31:55,951 :INFO : test_login_page :Login Page Start
+2022-03-12 15:31:56,213 :INFO : test_login_page :Login Test Case 1 Executed Successfully 
+2022-03-12 15:31:56,213 :INFO : test_login_page :Login Test Case 1 Executed Successfully 
+2022-03-12 15:31:56,213 :INFO : test_login_page :Login Test Case 1 Executed Successfully 
+2022-03-12 15:31:56,213 :INFO : test_login_page :Login Test Case 1 Executed Successfully 
+2022-03-12 15:32:08,381 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-12 15:32:32,219 :INFO : test_Cart_list :Test Cart List is Started
+2022-03-12 15:33:26,778 :INFO : test_total_no_items :Test Total Number of Items is Started
+2022-03-12 15:43:09,437 :INFO : test_login_page :Login Page Start
+2022-03-12 15:43:09,653 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 15:43:09,653 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 15:43:29,490 :INFO : test_login_page :Login Page Start
+2022-03-12 15:43:29,490 :INFO : test_login_page :Login Page Start
+2022-03-12 15:43:29,702 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 15:43:29,702 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 15:43:29,702 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 15:43:29,702 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 15:43:43,805 :INFO : test_login_page :Login Page Start
+2022-03-12 15:43:43,805 :INFO : test_login_page :Login Page Start
+2022-03-12 15:43:43,805 :INFO : test_login_page :Login Page Start
+2022-03-12 15:43:44,029 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 15:43:44,029 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 15:43:44,029 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 15:43:44,030 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 15:43:44,030 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 15:43:44,030 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 15:43:55,850 :INFO : test_login_page :Login Page Start
+2022-03-12 15:43:55,850 :INFO : test_login_page :Login Page Start
+2022-03-12 15:43:55,850 :INFO : test_login_page :Login Page Start
+2022-03-12 15:43:55,850 :INFO : test_login_page :Login Page Start
+2022-03-12 15:43:56,117 :INFO : test_login_page :Login Test Case 1 Executed Successfully 
+2022-03-12 15:43:56,117 :INFO : test_login_page :Login Test Case 1 Executed Successfully 
+2022-03-12 15:43:56,117 :INFO : test_login_page :Login Test Case 1 Executed Successfully 
+2022-03-12 15:43:56,117 :INFO : test_login_page :Login Test Case 1 Executed Successfully 
+2022-03-12 15:44:10,394 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-12 15:44:42,744 :INFO : test_Cart_list :Test Cart List is Started
+2022-03-12 15:46:43,590 :INFO : test_total_no_items :Test Total Number of Items is Started
+2022-03-12 15:49:26,452 :INFO : test_total_no_items :Test Total Number of Items is Started
+2022-03-12 16:07:39,095 :INFO : test_login_page :Login Page Start
+2022-03-12 16:07:39,306 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 16:07:39,306 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 16:07:52,524 :INFO : test_login_page :Login Page Start
+2022-03-12 16:07:52,524 :INFO : test_login_page :Login Page Start
+2022-03-12 16:07:52,738 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 16:07:52,738 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 16:07:52,738 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 16:07:52,738 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 16:08:05,117 :INFO : test_login_page :Login Page Start
+2022-03-12 16:08:05,117 :INFO : test_login_page :Login Page Start
+2022-03-12 16:08:05,117 :INFO : test_login_page :Login Page Start
+2022-03-12 16:08:05,343 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 16:08:05,343 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 16:08:05,343 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 16:08:05,343 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 16:08:05,343 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 16:08:05,343 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 16:08:17,118 :INFO : test_login_page :Login Page Start
+2022-03-12 16:08:17,118 :INFO : test_login_page :Login Page Start
+2022-03-12 16:08:17,118 :INFO : test_login_page :Login Page Start
+2022-03-12 16:08:17,118 :INFO : test_login_page :Login Page Start
+2022-03-12 16:08:17,405 :INFO : test_login_page :Login Test Case 1 Executed Successfully 
+2022-03-12 16:08:17,405 :INFO : test_login_page :Login Test Case 1 Executed Successfully 
+2022-03-12 16:08:17,405 :INFO : test_login_page :Login Test Case 1 Executed Successfully 
+2022-03-12 16:08:17,405 :INFO : test_login_page :Login Test Case 1 Executed Successfully 
+2022-03-12 16:08:27,287 :INFO : test_total_no_items :Test Total Number of Items is Started
+2022-03-12 16:50:21,618 :INFO : test_login_page :Login Page Start
+2022-03-12 16:50:21,828 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 16:50:21,829 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 16:50:35,957 :INFO : test_login_page :Login Page Start
+2022-03-12 16:50:35,957 :INFO : test_login_page :Login Page Start
+2022-03-12 16:50:36,181 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 16:50:36,181 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 16:50:36,181 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 16:50:36,181 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 16:50:50,170 :INFO : test_login_page :Login Page Start
+2022-03-12 16:50:50,170 :INFO : test_login_page :Login Page Start
+2022-03-12 16:50:50,170 :INFO : test_login_page :Login Page Start
+2022-03-12 16:50:50,406 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 16:50:50,406 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 16:50:50,406 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 16:50:50,406 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 16:50:50,406 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 16:50:50,406 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 16:51:01,960 :INFO : test_login_page :Login Page Start
+2022-03-12 16:51:01,960 :INFO : test_login_page :Login Page Start
+2022-03-12 16:51:01,960 :INFO : test_login_page :Login Page Start
+2022-03-12 16:51:01,960 :INFO : test_login_page :Login Page Start
+2022-03-12 16:51:02,266 :INFO : test_login_page :Login Test Case 1 Executed Successfully 
+2022-03-12 16:51:02,266 :INFO : test_login_page :Login Test Case 1 Executed Successfully 
+2022-03-12 16:51:02,266 :INFO : test_login_page :Login Test Case 1 Executed Successfully 
+2022-03-12 16:51:02,266 :INFO : test_login_page :Login Test Case 1 Executed Successfully 
+2022-03-12 16:51:16,064 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-12 16:51:37,284 :INFO : test_Cart_list :Test Cart List is Started
+2022-03-12 16:52:27,306 :INFO : test_total_no_items :Test Total Number of Items is Started
+2022-03-12 17:01:22,719 :INFO : test_login_page :Login Page Start
+2022-03-12 17:01:22,929 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 17:01:22,929 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 17:01:33,296 :INFO : test_login_page :Login Page Start
+2022-03-12 17:01:33,296 :INFO : test_login_page :Login Page Start
+2022-03-12 17:01:33,507 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 17:01:33,507 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 17:01:33,507 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 17:01:33,507 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 17:01:45,981 :INFO : test_login_page :Login Page Start
+2022-03-12 17:01:45,981 :INFO : test_login_page :Login Page Start
+2022-03-12 17:01:45,981 :INFO : test_login_page :Login Page Start
+2022-03-12 17:01:46,202 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 17:01:46,202 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 17:01:46,202 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 17:01:46,202 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 17:01:46,202 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 17:01:46,202 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 17:02:06,276 :INFO : test_login_page :Login Page Start
+2022-03-12 17:02:06,276 :INFO : test_login_page :Login Page Start
+2022-03-12 17:02:06,276 :INFO : test_login_page :Login Page Start
+2022-03-12 17:02:06,276 :INFO : test_login_page :Login Page Start
+2022-03-12 17:02:06,552 :INFO : test_login_page :Login Test Case 1 Executed Successfully 
+2022-03-12 17:02:06,552 :INFO : test_login_page :Login Test Case 1 Executed Successfully 
+2022-03-12 17:02:06,552 :INFO : test_login_page :Login Test Case 1 Executed Successfully 
+2022-03-12 17:02:06,552 :INFO : test_login_page :Login Test Case 1 Executed Successfully 
+2022-03-12 17:02:18,124 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-12 17:02:28,877 :INFO : test_Cart_list :Test Cart List is Started
+2022-03-12 17:03:09,957 :INFO : test_total_no_items :Test Total Number of Items is Started
+2022-03-12 17:04:12,231 :INFO : test_login_page :Login Page Start
+2022-03-12 17:04:12,454 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 17:04:12,454 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 17:04:29,487 :INFO : test_login_page :Login Page Start
+2022-03-12 17:04:29,487 :INFO : test_login_page :Login Page Start
+2022-03-12 17:04:29,734 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 17:04:29,734 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 17:04:29,735 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 17:04:29,735 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 17:04:41,817 :INFO : test_login_page :Login Page Start
+2022-03-12 17:04:41,817 :INFO : test_login_page :Login Page Start
+2022-03-12 17:04:41,817 :INFO : test_login_page :Login Page Start
+2022-03-12 17:04:42,052 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 17:04:42,052 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 17:04:42,052 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 17:04:42,052 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 17:04:42,052 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 17:04:42,052 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 17:04:54,526 :INFO : test_login_page :Login Page Start
+2022-03-12 17:04:54,526 :INFO : test_login_page :Login Page Start
+2022-03-12 17:04:54,526 :INFO : test_login_page :Login Page Start
+2022-03-12 17:04:54,526 :INFO : test_login_page :Login Page Start
+2022-03-12 17:04:54,803 :INFO : test_login_page :Login Test Case 1 Executed Successfully 
+2022-03-12 17:04:54,803 :INFO : test_login_page :Login Test Case 1 Executed Successfully 
+2022-03-12 17:04:54,803 :INFO : test_login_page :Login Test Case 1 Executed Successfully 
+2022-03-12 17:04:54,803 :INFO : test_login_page :Login Test Case 1 Executed Successfully 
+2022-03-12 17:05:11,210 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-12 17:05:43,200 :INFO : test_Cart_list :Test Cart List is Started
+2022-03-12 17:06:25,226 :INFO : test_total_no_items :Test Total Number of Items is Started
+2022-03-12 17:12:21,455 :INFO : test_login_page :Login Page Start
+2022-03-12 17:12:21,660 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 17:12:21,660 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 17:12:35,572 :INFO : test_login_page :Login Page Start
+2022-03-12 17:12:35,572 :INFO : test_login_page :Login Page Start
+2022-03-12 17:12:35,793 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 17:12:35,793 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 17:12:35,793 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 17:12:35,793 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 17:12:45,779 :INFO : test_login_page :Login Page Start
+2022-03-12 17:12:45,779 :INFO : test_login_page :Login Page Start
+2022-03-12 17:12:45,779 :INFO : test_login_page :Login Page Start
+2022-03-12 17:12:46,002 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 17:12:46,002 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 17:12:46,002 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 17:12:46,002 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 17:12:46,002 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 17:12:46,002 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 17:12:57,199 :INFO : test_login_page :Login Page Start
+2022-03-12 17:12:57,199 :INFO : test_login_page :Login Page Start
+2022-03-12 17:12:57,199 :INFO : test_login_page :Login Page Start
+2022-03-12 17:12:57,199 :INFO : test_login_page :Login Page Start
+2022-03-12 17:12:57,469 :INFO : test_login_page :Login Test Case 1 Executed Successfully 
+2022-03-12 17:12:57,469 :INFO : test_login_page :Login Test Case 1 Executed Successfully 
+2022-03-12 17:12:57,469 :INFO : test_login_page :Login Test Case 1 Executed Successfully 
+2022-03-12 17:12:57,469 :INFO : test_login_page :Login Test Case 1 Executed Successfully 
+2022-03-12 17:13:08,445 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-12 17:13:17,804 :INFO : test_Cart_list :Test Cart List is Started
+2022-03-12 17:13:56,606 :INFO : test_total_no_items :Test Total Number of Items is Started
+2022-03-12 20:01:15,114 :INFO : test_login_page :Login Page Start
+2022-03-12 20:01:15,972 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 20:01:15,972 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 20:01:48,607 :INFO : test_login_page :Login Page Start
+2022-03-12 20:01:48,607 :INFO : test_login_page :Login Page Start
+2022-03-12 20:01:49,220 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 20:01:49,220 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 20:01:49,220 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 20:01:49,220 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 20:02:09,841 :INFO : test_login_page :Login Page Start
+2022-03-12 20:02:09,841 :INFO : test_login_page :Login Page Start
+2022-03-12 20:02:09,841 :INFO : test_login_page :Login Page Start
+2022-03-12 20:02:10,180 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 20:02:10,180 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 20:02:10,180 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-12 20:02:10,181 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 20:02:10,181 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 20:02:10,181 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-12 20:03:29,494 :INFO : test_login_page :Login Page Start
+2022-03-12 20:03:29,494 :INFO : test_login_page :Login Page Start
+2022-03-12 20:03:29,494 :INFO : test_login_page :Login Page Start
+2022-03-12 20:03:29,494 :INFO : test_login_page :Login Page Start
+2022-03-12 20:03:30,041 :INFO : test_login_page :Login Test Case 1 Executed Successfully 
+2022-03-12 20:03:30,041 :INFO : test_login_page :Login Test Case 1 Executed Successfully 
+2022-03-12 20:03:30,041 :INFO : test_login_page :Login Test Case 1 Executed Successfully 
+2022-03-12 20:03:30,041 :INFO : test_login_page :Login Test Case 1 Executed Successfully 
+2022-03-12 20:04:15,008 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-12 20:05:35,347 :INFO : test_Cart_list :Test Cart List is Started
+2022-03-12 20:06:57,480 :INFO : test_total_no_items :Test Total Number of Items is Started
+2022-03-14 20:11:58,344 :INFO : test_login_page :Login Page Start
+2022-03-14 20:11:59,073 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-14 20:11:59,073 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-14 20:12:13,433 :INFO : test_login_page :Login Page Start
+2022-03-14 20:12:13,433 :INFO : test_login_page :Login Page Start
+2022-03-14 20:12:13,850 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-14 20:12:13,850 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-14 20:12:13,851 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-14 20:12:13,851 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-14 20:12:41,829 :INFO : test_login_page :Login Page Start
+2022-03-14 20:12:41,829 :INFO : test_login_page :Login Page Start
+2022-03-14 20:12:41,829 :INFO : test_login_page :Login Page Start
+2022-03-14 20:12:42,440 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-14 20:12:42,440 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-14 20:12:42,440 :INFO : test_login_page :Epic sadface: Username and password do not match any user in this service
+2022-03-14 20:12:42,440 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-14 20:12:42,440 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-14 20:12:42,440 :INFO : test_login_page :Login Test Case 3 Executed Successfully 
+2022-03-14 20:13:07,444 :INFO : test_login_page :Login Page Start
+2022-03-14 20:13:07,444 :INFO : test_login_page :Login Page Start
+2022-03-14 20:13:07,444 :INFO : test_login_page :Login Page Start
+2022-03-14 20:13:07,444 :INFO : test_login_page :Login Page Start
+2022-03-14 20:13:07,945 :INFO : test_login_page :Login Test Case 1 Executed Successfully 
+2022-03-14 20:13:07,945 :INFO : test_login_page :Login Test Case 1 Executed Successfully 
+2022-03-14 20:13:07,945 :INFO : test_login_page :Login Test Case 1 Executed Successfully 
+2022-03-14 20:13:07,945 :INFO : test_login_page :Login Test Case 1 Executed Successfully 
+2022-03-14 20:13:21,932 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-14 20:13:36,423 :INFO : test_Cart_list :Test Cart List is Started
+2022-03-14 20:14:42,778 :INFO : test_total_no_items :Test Total Number of Items is Started
+2022-03-14 20:15:59,332 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-14 20:19:06,125 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-14 20:20:17,339 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-14 20:25:55,053 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-14 20:26:40,552 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-14 21:29:18,308 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-14 21:31:44,113 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-14 21:32:25,719 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-14 21:33:13,610 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-14 21:34:17,387 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-14 21:35:53,043 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-14 21:41:11,955 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-14 21:42:33,233 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-14 21:43:12,668 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-14 21:43:53,265 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-14 21:44:57,732 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-14 21:46:05,320 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-14 21:57:35,348 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-14 22:03:29,794 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-14 22:05:26,751 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-14 22:06:15,670 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-14 22:11:45,992 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-14 22:13:06,073 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-14 22:15:56,207 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-14 22:21:32,543 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-14 22:25:45,781 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 20:16:27,592 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 20:26:35,559 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 20:30:19,762 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 20:32:59,272 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 20:34:31,077 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 20:36:07,674 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 20:37:59,126 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 20:38:53,740 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 20:39:48,686 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 20:41:08,907 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 20:50:01,994 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 20:51:03,222 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 20:52:26,553 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 20:57:03,704 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 21:00:42,902 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 21:04:04,911 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 21:10:55,102 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 21:11:47,711 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 21:13:24,252 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 21:15:07,214 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 21:23:54,621 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 21:24:41,200 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 21:26:13,996 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 21:29:35,393 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 21:31:12,667 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 21:32:32,455 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 21:38:08,694 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 21:39:46,158 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 21:41:40,328 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 22:15:49,736 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 22:18:17,962 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 22:20:49,123 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 22:30:41,480 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 22:31:50,181 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 22:33:05,344 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 22:34:37,229 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 22:36:18,806 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 22:37:44,819 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 22:39:40,151 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 22:55:42,053 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 22:58:58,705 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 23:02:38,499 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 23:04:47,111 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 23:10:02,134 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 23:13:17,616 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 23:15:19,530 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-15 23:17:08,274 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-16 19:50:13,754 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-16 20:00:48,295 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-16 20:03:14,929 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-16 20:05:35,867 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-16 20:10:54,848 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-16 20:12:30,288 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-16 20:18:16,426 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-16 20:20:30,056 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-16 20:21:17,084 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-16 20:24:13,563 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-16 20:25:24,281 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-16 20:35:45,569 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-16 20:37:11,550 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-16 20:38:21,773 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-16 20:54:01,041 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-27 14:32:31,545 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-27 17:02:27,487 :INFO : test_case_home_page :Home Page is Login Started 
+2022-03-27 17:22:03,283 :INFO : test_case_home_page :Home Page is Login Started 
+2022-04-01 12:22:45,696 :INFO : test_case_home_page :Home Page is Login Started 
+2022-04-01 12:33:58,532 :INFO : test_case_home_page :Home Page is Login Started 
+2022-04-01 14:16:59,365 :INFO : test_case_home_page :Home Page is Login Started 
+2022-04-01 15:10:50,810 :INFO : test_case_home_page :Home Page is Login Started 
+2022-04-01 19:11:16,520 :INFO : test_case_home_page :Home Page is Login Started 
+2022-04-01 19:23:09,780 :INFO : test_case_home_page :Home Page is Login Started 
+2022-04-01 19:36:09,271 :INFO : test_case_home_page :Home Page is Login Started 
+2022-04-01 19:42:30,283 :INFO : test_case_home_page :Home Page is Login Started 
+2022-04-01 20:02:36,494 :INFO : test_case_home_page :Home Page is Login Started 
+2022-04-01 20:03:59,250 :INFO : test_case_home_page :Home Page is Login Started 
+2022-04-01 20:06:22,696 :INFO : test_case_home_page :Home Page is Login Started 
+2022-04-01 20:08:06,487 :INFO : test_case_home_page :Home Page is Login Started 
+2022-04-01 20:09:41,168 :INFO : test_Cart_list :Test Cart List is Started
+2022-04-01 20:22:59,595 :INFO : test_case_home_page :Home Page is Login Started 
