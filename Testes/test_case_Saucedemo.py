@@ -15,7 +15,7 @@ sys.path.append("C:\\Users\\DELL\\PycharmProjects\\Saucedemo")
 
 
 @allure.severity(allure.severity_level.NORMAL)
-class Test_case_0007(Baseclass):
+class Test_case_0008(Baseclass):
 
     @pytest.mark.sanity
     @pytest.mark.skip
